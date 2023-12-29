@@ -1,6 +1,6 @@
 <h1>👋 Olá! Eu sou John Costa Mendes - Desenvolvedor Android com Kotlin</h1>
 
-<p>Sou um entusiasta de aplicativos Android e adoro criar soluções inovadoras com Kotlin. Bem-vindo ao meu mundo de códigos! ✨</p>
+<p>Sou um desenvolvedor de aplicativos Android e adoro criar soluções inovadoras com Kotlin. Bem-vindo ao meu mundo de códigos! ✨</p>
 
 <h2>Sobre mim</h2>
 
@@ -12,24 +12,24 @@
 
 <h2>Projetos em Destaque</h2>
 
-<h3>🚀 <a href="https://github.com/John-Costa-Mendes/JohnFlix">John Flix</a></h3>
-<p>Projeto de um aplicativo de filmes. Tecnologias utilizadas: [Kotlin, Retrofit, Room, API(TMDB),MVVM].</p>
+<h3>🚀 <a href="https://github.com/John-Costa-Mendes/JohnFlix">JohnFlix</a></h3>
+<p>Projeto de um aplicativo de filmes. Tecnologias utilizadas: Kotlin, Retrofit, Room, API(TMDB),MVVM.</p>
 
-<h3>🌟 <a href="URL_do_Projeto_2">Nome do Projeto 2</a></h3>
-<p>Resumo animado do projeto, destacando suas principais características. Tecnologias utilizadas: [Lista de tecnologias].</p>
+<h3>🌟 <a href="https://github.com/John-Costa-Mendes/Gasto-Viagem">Gasto-Viagem</a></h3>
+<p>Projeto de um aplicativo de cálculo de gasto de combustivel de uma viagem. </p>
 
-<h3>💡 <a href="URL_do_Projeto_3">Nome do Projeto 3</a></h3>
-<p>Breve descrição do projeto com ênfase em suas funcionalidades inovadoras. Tecnologias utilizadas: [Lista de tecnologias].</p>
+<h3>💡 <a href="https://github.com/John-Costa-Mendes/Motivation">Motivation</a></h3>
+<p>Projeto de um aplicativo de mensagens motivacionais.</p>
 
-<h2>Tecnologias Favoritas</h2>
+<h2>Tecnologias</h2>
 
 <ul>
   <li>Kotlin 🚀</li>
-  <li>Android Jetpack 📱</li>
-  <li>Retrofit 🌐</li>
-  <li>Coroutines 🌈</li>
-  <li>Dagger/Hilt ⚔️</li>
-  <li>MVVM / Clean Architecture 🏗️</li>
+  <li>Android Studio 📱</li>
+  <li>Retrofit 🧮</li>
+  <li>Room 🎲</li>
+  <li>Glide / Picasso 🎴</li>
+  <li>MVVM 🏗️</li>
 </ul>
 
 <h2>Vamos Conectar!</h2>
